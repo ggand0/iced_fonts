@@ -24,7 +24,9 @@ iced_core.workspace = true
 
 [workspace.dependencies]
 #iced_core = "0.13"
-iced_core = { git = "https://github.com/ggand0/iced.git", rev = "69a425da03f227a8fd0e654eeb1e2d8c271e4411" }
+#iced_core = { git = "https://github.com/ggand0/iced.git", rev = "69a425da03f227a8fd0e654eeb1e2d8c271e4411" }
+iced_core = { git = "https://github.com/ggand0/iced.git", rev = "ea76d7320e0967e2ec3d028d3d833c1d9ce53b58" }
+
 
 [patch.crates-io]
 # iced_core = { git = "https://github.com/iced-rs/iced.git" }

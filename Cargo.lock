@@ -292,7 +292,7 @@ checksum = "75b325c5dbd37f80359721ad39aca5a29fb04c89279657cffdda8736d0c0b9d2"
 [[package]]
 name = "dpi"
 version = "0.1.1"
-source = "git+https://github.com/ggand0/winit.git?rev=ef40f477b66b64f68eda0562a92bd42bcd35b14a#ef40f477b66b64f68eda0562a92bd42bcd35b14a"
+source = "git+https://github.com/ggand0/winit.git?rev=e6ca302116d7f5c6c212cf659db63fabed9afbe5#e6ca302116d7f5c6c212cf659db63fabed9afbe5"
 
 [[package]]
 name = "equivalent"
@@ -385,7 +385,7 @@ checksum = "fbf6a919d6cf397374f7dfeeea91d974c7c0a7221d0d0f4f20d859d329e53fcc"
 [[package]]
 name = "iced_core"
 version = "0.13.1"
-source = "git+https://github.com/ggand0/iced.git?rev=69a425da03f227a8fd0e654eeb1e2d8c271e4411#69a425da03f227a8fd0e654eeb1e2d8c271e4411"
+source = "git+https://github.com/ggand0/iced.git?rev=ea76d7320e0967e2ec3d028d3d833c1d9ce53b58#ea76d7320e0967e2ec3d028d3d833c1d9ce53b58"
 dependencies = [
  "bitflags 2.6.0",
  "bytes",
@@ -1566,7 +1566,7 @@ checksum = "589f6da84c646204747d1270a2a5661ea66ed1cced2631d546fdfb155959f9ec"
 [[package]]
 name = "winit"
 version = "0.30.0"
-source = "git+https://github.com/ggand0/winit.git?rev=ef40f477b66b64f68eda0562a92bd42bcd35b14a#ef40f477b66b64f68eda0562a92bd42bcd35b14a"
+source = "git+https://github.com/ggand0/winit.git?rev=e6ca302116d7f5c6c212cf659db63fabed9afbe5#e6ca302116d7f5c6c212cf659db63fabed9afbe5"
 dependencies = [
  "ahash",
  "android-activity",
