@@ -385,7 +385,7 @@ checksum = "fbf6a919d6cf397374f7dfeeea91d974c7c0a7221d0d0f4f20d859d329e53fcc"
 [[package]]
 name = "iced_core"
 version = "0.13.1"
-source = "git+https://github.com/ggand0/iced.git?rev=ea76d7320e0967e2ec3d028d3d833c1d9ce53b58#ea76d7320e0967e2ec3d028d3d833c1d9ce53b58"
+source = "git+https://github.com/ggand0/iced.git?branch=custom-winit-0.13.1#2f5ff03d74a7d173ad3667630acd864c2846a061"
 dependencies = [
  "bitflags 2.6.0",
  "bytes",
