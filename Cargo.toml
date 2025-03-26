@@ -27,11 +27,7 @@ iced_core.workspace = true
 #iced_core = "0.13"
 
 # custom iced for viewskater
-iced_core = { git = "https://github.com/ggand0/iced.git", branch = "custom-winit-0.13.1" }
-
-# local debugging
-#iced_core = { path = "../iced/core" }
-
+iced_core = { git = "https://github.com/ggand0/iced.git", branch = "custom-0.13" }
 
 [patch.crates-io]
 # iced_core = { git = "https://github.com/iced-rs/iced.git" }
