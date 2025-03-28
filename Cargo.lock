@@ -385,7 +385,7 @@ checksum = "fbf6a919d6cf397374f7dfeeea91d974c7c0a7221d0d0f4f20d859d329e53fcc"
 [[package]]
 name = "iced_core"
 version = "0.13.5"
-source = "git+https://github.com/ggand0/iced.git?branch=custom-0.13#d8c9c8dc2c32df407b88f393b0a58bb45431f42b"
+source = "git+https://github.com/ggand0/iced.git?tag=custom-0.13-vsk-0.2.1#24f6cc69d345a7a9d954a5fe5ae172f75daabec1"
 dependencies = [
  "bitflags 2.6.0",
  "bytes",
