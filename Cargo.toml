@@ -23,11 +23,8 @@ full = ["bootstrap", "nerd"]
 iced_core.workspace = true
 
 [workspace.dependencies]
-# original
-#iced_core = "0.13"
-
 # custom iced for viewskater
-iced_core = { git = "https://github.com/ggand0/iced.git", tag = "custom-0.13-vsk-0.2.1" }
+iced_core = { git = "https://github.com/ggand0/iced.git", branch = "custom-0.13" }
 
 [patch.crates-io]
 # iced_core = { git = "https://github.com/iced-rs/iced.git" }
